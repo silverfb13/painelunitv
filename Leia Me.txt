@@ -1,0 +1,8 @@
+Dentro da pasta authp, arquivo "authentication.php"
+coloca o seu painel no "SeuPainelAqui"
+
+Dentro da pasta valid, arquivo "config.txt"
+coloca o seu painel no "SeuPainelAqui"
+
+no apk UniTV, procurar por "SeuPainelAqui"
+e coloca o seu painel.
